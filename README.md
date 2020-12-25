@@ -16,3 +16,4 @@ The model works on principle of NLP on text reviews and rating (1 to 5) which th
 Accuracy of 95.18 percent was achieved on test set wheras it was 95.48 on training set.
 
 The implementation can be found in Sentiment_Analysis_forr_Amazon_review.ipynb file.
+Unzip the dataset to run this model. 
